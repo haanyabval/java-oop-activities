@@ -1,6 +1,6 @@
 # Java OOP Activities
 
-Java programming activities for my Object-Oriented Programming course: lecture activities, laboratory take-homes, practice problems, and take-home exercises.
+Java programming activities for my Object-Oriented Programming course: lecture activities, laboratory take-homes, practice problems, take-home exercises, and the OOP laboratory group tasks.
 
 ## Contents
 
@@ -38,7 +38,13 @@ Java programming activities for my Object-Oriented Programming course: lecture a
 | [Laboratory Take Home: Bank Account (Abstraction) and Hierarchical Inheritance](laboratories/lab-take-home-p65/) | Laboratory Activity Take Home, p. 65 |
 | [Laboratory Take Home: Four OOP Pillars](laboratories/lab-take-home-p66/) | Laboratory Activity Take Home, p. 66 |
 
-More laboratory activities from the OOP laboratory course will be added here.
+### OOP Laboratory Course (Ms. Lojo)
+
+| Activity | Source |
+|----------|--------|
+| [Group Task 1-5 (Group 5)](oop-laboratory/group-task-1-5/) | Calculator, net salary, circle, BMI, login + ATM |
+
+More laboratory activities will be added in [`oop-laboratory/`](oop-laboratory/).
 
 ### Take Home
 
